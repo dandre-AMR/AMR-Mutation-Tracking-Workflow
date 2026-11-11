@@ -1,0 +1,13 @@
+name: amr-stability
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - ncbi-amrfinderplus=3.12.6
+  - sourmash
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - openpyxl
